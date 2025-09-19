@@ -1,3 +1,4 @@
+/*
 // This is for testing purposes only
 import SidebarThumbnail from '@/components/sidebar/SidebarThumbnail';
 import mediaItems from '@/assets/test.json';
@@ -20,3 +21,4 @@ const SidebarTest = () => {
 };
 
 export default SidebarTest;
+*/
